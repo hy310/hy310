@@ -6,10 +6,9 @@
 
 
 ### 💻 Research interest
-- NLP(text classification, machine translation, question answering)
+- NLP, Computer Vision
 - Neuro-symbolic AI, generalization, abstraction
 - Meta-learning, representation learning
-- Computer vision (image recognition, pose estimation, super resolution)
 - Healthcare
 
 ### 🏆 Awards
