@@ -1,5 +1,3 @@
-:wave: Hello My name is Haeyoung!
-
 </div>
 
 ### 👩🏻‍🏫 Deep Learning Engineer
