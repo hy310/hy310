@@ -26,5 +26,5 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hy310&theme=solarized-light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hy310&theme=solarized-light&show_icons=true&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
