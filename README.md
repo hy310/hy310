@@ -14,10 +14,10 @@
 
 ### 🏆 Awards
 - 2019 1st prize, AI Object Recognition Hackathon, Korea University Engineering Education Innovation Center
-- 2020 3rd prize, KUSITMS AI Academic Festival, Korean University Student IT Management Association
-- 2020 ADsP(Advanced Data Analytics Semi-Professional) certificate
 - 2020 2nd prize, 2020 ICT CoC AI contest, Ministry of Science and ICT & National IT Industry Promotion Agency
 - 2020 2nd prize, 2020 Research Data & AI Competition, KISTI
+- 2020 3rd prize, KUSITMS AI Academic Festival, Korean University Student IT Management Association
+- 2020 ADsP(Advanced Data Analytics Semi-Professional) certificate
 
 ### 👩🏻‍💻 Tech Stack 
 
