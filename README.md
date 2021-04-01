@@ -14,21 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
 </div>
 
 ### Deep Learning Engineer
-- Internship at Intel Korea
-- B.S.
+- 2020.01 - 2021.01 : Internship at Intel Korea - Big Data Analysis & Optimization Engineer
+- B.S. in Mechanical Biomedical Engineering / Computer Engineering
+
 
 ### Research interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+- NLP(text classification, machine translation, question answering)
+- Neuro-symbolic AI, generalization, abstraction
+- Meta-learning, representation learning
+- Computer vision (image recognition, pose estimation, super resolution)
+- Healthcare
 
 
 <div align=center>
