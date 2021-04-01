@@ -1,4 +1,4 @@
-:wave: Hello My name is Haeyoung
+:wave: Hello My name is Haeyoung!
 
 </div>
 
@@ -16,7 +16,7 @@
 
 
 
-#### :mailbox_with_mail: Contacts  
+### :mailbox_with_mail: Contacts  
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCv2lYHNecJBC8bDTTsB6hbQ)](https://www.youtube.com/channel/UCv2lYHNecJBC8bDTTsB6hbQ) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hae3998)](https://www.facebook.com/hae3998) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/h_nongnong/)](https://www.instagram.com/h_nongnong/) 
