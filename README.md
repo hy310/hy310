@@ -6,10 +6,11 @@
 
 
 ### 💻 Research interest
-- NLP, Computer Vision
+- Spoken Language Processing
+- End-to-end based Mispronunciation Detection and Diagnosis
+- Explainable AI
 - Neuro-symbolic AI, generalization, abstraction
 - Meta-learning, representation learning
-- Healthcare
 
 ### 🏆 Awards
 - 2019 1st prize, AI Object Recognition Hackathon, Korea University Engineering Education Innovation Center
