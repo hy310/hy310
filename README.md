@@ -3,6 +3,8 @@
 ### 👩🏻‍🏫 Deep Learning Engineer
 - 2020.01 - 2021.01 : Internship at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white) - Big Data Analysis & Optimization Engineer
 - B.S. in Mechanical Biomedical Engineering / Computer Engineering at EWHA Womans Univ.
+- M.S. student in Cognitive Science at Seoul National Univ. 
+- Spoken Language Processing Lab
 
 
 ### 💻 Research interest
