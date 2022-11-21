@@ -10,7 +10,7 @@
 ### 💻 Research interest
 - Spoken Language Processing
 - End-to-end based Mispronunciation Detection and Diagnosis
-- Explainable AI
+- Explainable AI, Attention algorithm
 - Neuro-symbolic AI, generalization, abstraction
 - Meta-learning, representation learning
 
