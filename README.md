@@ -9,9 +9,9 @@
 
 ### 💻 Research interest
 - Spoken Language Processing
-- End-to-end based Mispronunciation Detection and Diagnosis
-- Explainable AI, Attention algorithm
-- Neuro-symbolic AI, generalization, abstraction
+- Self-supervised Learning
+- Explainable AI
+- Neuro-symbolic AI, generalization
 - Meta-learning, representation learning
 
 ### 🏆 Awards
@@ -46,5 +46,3 @@
 
 
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hy310&theme=solarized-light&show_icons=true&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
