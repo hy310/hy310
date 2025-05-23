@@ -3,17 +3,14 @@
 ### 👩🏻‍🏫 Deep Learning Engineer
 - 2020.01 - 2021.01 : Internship at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white) - Big Data Analysis & Optimization Engineer
 - B.S. in Mechanical Biomedical Engineering / Computer Engineering at EWHA Womans Univ.
-- M.S. in Cognitive Science at Seoul National Univ.
-- Ph.D student in Artificial Intelligence at Seoul National Univ.
-- Spoken Language Processing Lab
-
+- M.S. in Cognitive Science at Seoul National Univ. (Spoken Language Processing Lab)
+- Ph.D student in Artificial Intelligence at Seoul National Univ. (Intelligent Data Exploration and Analysis Lab)
 
 ### 💻 Research interest
+- Explainable AI
+- Large Language Model
 - Spoken Language Processing
 - Self-supervised Learning
-- Explainable AI
-- Neuro-symbolic AI, generalization
-- Meta-learning, representation learning
 
 ### 🏆 Awards
 - 2019 1st prize, AI Object Recognition Hackathon, Korea University Engineering Education Innovation Center
